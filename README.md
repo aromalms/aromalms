@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aromal M S !</h1>
-<h3 align="center">Python Django & Flutter Enthusiast | Self-Learner | I'm a passionate developer who loves building web and mobile applications. Continuously learning and applying new skills to real-world projects is what drives me!</h3>
+<h3 align="center">Developer | Self-Learner | I'm a passionate developer who loves building web and mobile applications. Continuously learning and applying new skills to real-world projects is what drives me!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
